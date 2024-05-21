@@ -1,2 +1,3 @@
-# Windows-Process-Hijacker
-Skrip C untuk membajak Proses di Windows. Menargetkan PID, Class, dan HWID.
+# What is this?
+
+Skrip C untuk kebutuhan `Pentesting` project. Bug Bounty Microsoft program.
